@@ -1,0 +1,26 @@
+_repo: Peter-Merton-s-private-mint_73497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Archer, Lee
+    gutenberg_agent_id: '32668'
+    url: http://www.gutenberg.org/2009/agents/32668
+description: ''
+gutenberg_issued: '2024-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73497'
+language: en
+pgterms:marc905: 20240319152528archer
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Peter Merton's private mint
+url: http://www.gutenberg.org/ebooks/73497
