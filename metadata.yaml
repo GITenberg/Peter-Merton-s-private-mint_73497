@@ -1,11 +1,16 @@
 _repo: Peter-Merton-s-private-mint_73497
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73497-h/images/cover.jpg
 creator:
   author:
     agent_name: Archer, Lee
     gutenberg_agent_id: '32668'
     url: http://www.gutenberg.org/2009/agents/32668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73497#Peter-Merton-s-private-mint
 gutenberg_issued: '2024-04-29'
 gutenberg_type: Text
 identifiers:
